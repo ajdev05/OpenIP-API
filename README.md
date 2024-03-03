@@ -60,6 +60,13 @@ If the ip parameter is missing, the API will respond with a 400 status code and 
 
 ```
 
+## Examples
+
+### Python
+
+- [View Python GET Request Example Here](https://github.com/ajdev05/OpenIP-API/blob/main/ExampleGET.py)
+
+
 ---
 
 ### License
