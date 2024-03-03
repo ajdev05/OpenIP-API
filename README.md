@@ -55,4 +55,4 @@ If the ip parameter is missing, the API will respond with a 400 status code and 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### Issues
-If you encounter any issues or have questions, feel free to open an [open an issue](https://github.com/ajdev05/OpenIP-API/TrackAPP/issues) on this repository. We appreciate your feedback and contributions!
+If you encounter any issues or have questions, feel free to open an [open an issue](https://github.com/ajdev05/OpenIP-API/issues) on this repository. We appreciate your feedback and contributions!
