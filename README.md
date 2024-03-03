@@ -39,3 +39,13 @@ curl https://open-ip-api.vercel.app/api?ip=1.1.1.1
 
 ```
 
+### Handling Errors
+If the ip parameter is missing, the API will respond with a 400 status code and an error message:
+``` 
+{
+  "error": "IP parameter is missing"
+}
+
+```
+
+______________________________________________________________________________________________________
