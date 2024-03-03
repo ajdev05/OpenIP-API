@@ -27,3 +27,15 @@ Welcome to the OpenIP API, a free and unlimited IP to Country resolver that allo
 
 ```bash
 curl https://open-ip-api.vercel.app/api?ip=1.1.1.1
+``` 
+
+### Example Response
+```
+{
+  "ip": "1.1.1.1",
+  "country": "United States",
+  "city": "Buffalo, NY"
+}
+
+```
+
