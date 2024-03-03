@@ -26,6 +26,7 @@ Welcome to the OpenIP API, a free and unlimited IP to Country resolver that empo
 - [Code Examples](#Code-Examples)
 - [License](#license)
 - [Issues](#issues)
+- [Discussion](#Discussion)
 
 ---
 
@@ -82,3 +83,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Issues
 If you encounter any issues or have questions, feel free to open an [open an issue](https://github.com/ajdev05/OpenIP-API/issues) on this repository. We appreciate your feedback and contributions!
+
+
+### Discussion
+Join the [Discussion](https://github.com/ajdev05/OpenIP-API/discussions/) and collaborate with the community. Whether you have questions, ideas, or just want to connect, this is the space to engage. We encourage an open and inclusive environment for sharing experiences and helping each other make the most out of the OpenIP API.
+
