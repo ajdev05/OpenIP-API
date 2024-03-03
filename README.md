@@ -19,6 +19,7 @@ Welcome to the OpenIP API, a free and unlimited IP to Country resolver that empo
   - [Example Request](#example-request)
   - [Example Response](#example-response)
   - [Handling Errors](#handling-errors)
+- [Code Examples](#Code-Examples)
 - [License](#license)
 - [Issues](#issues)
 
@@ -60,13 +61,15 @@ If the ip parameter is missing, the API will respond with a 400 status code and 
 
 ```
 
-## Examples
+## Code Examples
 
 ### Python
 
-- [View Python GET Request Example Here](https://github.com/ajdev05/OpenIP-API/blob/main/ExampleGET.py)
+- [View Python3 example here](https://github.com/ajdev05/OpenIP-API/blob/main/ExampleGET.py)
 
+### Node.JS
 
+- [View Node.JS example here](https://github.com/ajdev05/OpenIP-API/blob/main/ExampleGET.py)
 ---
 
 ### License
