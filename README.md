@@ -28,7 +28,7 @@ Welcome to the OpenIP API, a free and unlimited IP to Country resolver that empo
 - [Issues](#issues)
 - [Discussion](#Discussion)
 
----
+--- 
 
 ## Usage
 
