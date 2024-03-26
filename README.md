@@ -7,7 +7,7 @@
 Welcome to the OpenIP API, a free and unlimited IP to Country resolver that empowers developers to seamlessly retrieve country and city information based on a given IP address. This API is built using the Flask web framework in Python, offering a robust and efficient solution for geolocation needs.
 
 ## Features
-
+ 
 - **Free and Unlimited Access:** OpenIP API provides free and unrestricted access to its IP to Country resolution service, allowing developers to integrate geolocation functionality without worrying about usage limits.
 
 - **Fast and Reliable:** Built on the Flask web framework, the OpenIP API ensures speedy and reliable responses, making it suitable for real-time applications and services.
