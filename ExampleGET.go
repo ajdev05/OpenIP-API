@@ -15,7 +15,7 @@ type OpenIPAPI_INFO struct {
 
 func main() {
 	ipAddress := "1.1.1.1"
-	url := fmt.Sprintf("https://open-ip-api.vercel.app/api?ip=%s", ipAddress)
+	url := fmt.Sprintf("https://openipapi.cloudshield.club/api?ip=%s", ipAddress)
 
 	response, err := http.Get(url)
 	if err != nil {
