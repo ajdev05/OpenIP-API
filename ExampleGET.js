@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const ip = "1.1.1.1";
-const url = `https://open-ip-api.vercel.app/api?ip=${ip}`;
+const url = `https://openipapi.cloudshield.club/api?ip=${ip}`;
 
 axios.get(url)
     .then(response => {
