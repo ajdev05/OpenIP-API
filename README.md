@@ -70,11 +70,15 @@ If the ip parameter is missing, the API will respond with a 400 status code and 
 
 ### Python
 
-- [View Python3 example here](https://github.com/ajdev05/OpenIP-API/blob/main/ExampleGET.py)
+- [View Python3 example here](https://github.com/ajdev05/OpenIP-API/blob/main/ExampleGET.py) 
 
 ### Node.JS
 
 - [View Node.JS example here](https://github.com/ajdev05/OpenIP-API/blob/main/ExampleGET.js)
+
+### Python
+
+- [View Python3 example here](https://github.com/ajdev05/OpenIP-API/blob/main/ExampleGET.go)
 ---
 
 ### License
