@@ -36,7 +36,7 @@ Simply make a GET request to the API endpoint with the desired IP address as a p
 
 ### API Endpoint
 
-- **Endpoint:** `https://open-ip-api.vercel.app/api`
+- **Endpoint:** `https://openipapi.cloudshield.club/api`
 - **Method:** `GET`
 - **Parameters:**
   - `ip` (required): The IP address for which you want to resolve the country and city.
@@ -44,7 +44,7 @@ Simply make a GET request to the API endpoint with the desired IP address as a p
 ### Example Request
 
 ```bash
-curl https://open-ip-api.vercel.app/api?ip=1.1.1.1
+curl https://openipapi.cloudshield.club/api?ip=1.1.1.1
 ``` 
 
 ### Example Response
