@@ -1,7 +1,7 @@
 import requests
 
 ip_address = "1.1.1.1"
-url = f"https://open-ip-api.vercel.app/api?ip={ip_address}"
+url = f"https://openipapi.cloudshield.club/api?ip={ip_address}"
 
 response = requests.get(url)
 
